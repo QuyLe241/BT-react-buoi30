@@ -3,7 +3,11 @@ import "./style.css"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='container_footer'>
+      <div className="footer">
+        <span>Copyright © Your Website 2023</span>
+      </div>
+    </div>
   )
 }
 

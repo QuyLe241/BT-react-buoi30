@@ -1,3 +1,106 @@
-div h1 {
+.header_container {
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: space-between; */
+}
+
+.d_contaihome {
+    display: flex; 
+    justify-content: center;
+}
+
+.container_home {
+    /* display: flex;
+    justify-content: center; */
+    background-color: rgb(248 249 250);
+    margin: 50px 0;
+    padding: 50px 0;
+}
+
+.container_home h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.container_home p {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn_call {
+    display: flex;
+    justify-content: center;
+}
+
+.container_home button {
+    padding: 10px 18px;
+    font-size: 18px;
+    margin-top: 15px;
+    /* text-align: center; */
+}
+
+.container_home h1 {
     text-align: center;
+}
+
+/* .container_home p {
+    margin-top: ;
+} */
+
+/* .container_home {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+} */
+
+.container_content {
+    margin: 35px 0;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.container_content .col-3 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(248 249 250);
+}
+
+.container_content .icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: white;
+    /* padding: 10px; */
+    border-radius: 8px;
+    background-color: rgb(13 110 253);
+    /* width: 30%; */
+    /* width: 32px; */
+}
+
+.container_content .icons i {
+    padding: 10px;
+    background-color: rgb(13 110 253);
+    border-radius: 8px;
+}
+
+.container_content .row p {
+    margin-bottom: -3px;
+}
+
+/* .container_content .icons i {
+    background-color: rgb(13 110 253);
+} */
+
+.container_footer {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 30px; */
+    padding: 50px 0;
+    background-color: rgb(33 37 41); 
+}
+
+.container_footer span {
+    color: rgb(255 255 255);
+    /* text-align: center; */
 }
