@@ -84,21 +84,22 @@
 
 .container_footer .items {
     /* height: 190px; */
-    display: flex;
-    justify-content: center;
+   /* display: flex; */
+   /* background-color: aqua; */
+   /* justify-content: center; */
 }
 
 .container_content .icons {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 35px;
+    font-size: 25px;
     color: white;
     /* padding: 10px; */
     border-radius: 8px;
     background-color: rgb(13 110 253);
-    width: 30%;
-    /* width: 32px; */
+    width: 26%;
+    /* width: 63px; */
     /* height: 190px; */
     transform: translateY(-39%);
 }

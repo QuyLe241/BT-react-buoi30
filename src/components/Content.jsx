@@ -13,9 +13,9 @@ const Content = () => {
               <i className="fa-regular fa-images"></i>
             </div>
             <div className="">
-            <h3 style={{textAlign:'center'}} className='pt-3'>Fresh new layout</h3>
-            <p style={{textAlign:'center'}} className=''>With Bootstrap 5, we've created a fresh</p>
-            <p style={{textAlign:'center'}}>new layout for this template!</p>
+              <h3 style={{textAlign:'center'}} className='pt-3'>Fresh new layout</h3>
+              <p style={{textAlign:'center'}} className=''>With Bootstrap 5, we've created a fresh</p>
+              <p style={{textAlign:'center'}}>new layout for this template!</p>
             </div>
           </div>
         </div>
@@ -23,12 +23,12 @@ const Content = () => {
         <div className="col-3">
           <div className="items">
             <div className="icons p-3">
-            <i className="fa-solid fa-download"></i>
+              <i className="fa-solid fa-download"></i>
             </div>
             <div className="">
-            <h3 style={{textAlign:'center'}} className='pt-3'>Free to download</h3>
-            <p style={{textAlign:'center'}} className=''>As always, Start Bootstrap has a</p>
-            <p style={{textAlign:'center'}}>powerful collectin of free templates.</p>
+              <h3 style={{textAlign:'center'}} className='pt-3'>Free to download</h3>
+              <p style={{textAlign:'center'}} className=''>As always, Start Bootstrap has a</p>
+              <p style={{textAlign:'center'}}>powerful collectin of free templates.</p>
             </div>
           </div>
         </div>
