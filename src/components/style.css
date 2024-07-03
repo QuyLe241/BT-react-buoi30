@@ -82,11 +82,9 @@
     height: 190px;
 }
 
-.container_footer .items {
-    /* height: 190px; */
-   /* display: flex; */
-   /* background-color: aqua; */
-   /* justify-content: center; */
+.container_content .items {
+    display: flex;
+    justify-content: center;
 }
 
 .container_content .icons {
