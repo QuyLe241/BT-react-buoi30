@@ -7,7 +7,7 @@ const Content = () => {
     <div className='container container_content'>
       {/* row */}
       <div className="row">
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
               <i className="fa-regular fa-images"></i>
@@ -20,7 +20,7 @@ const Content = () => {
           </div>
         </div>
 
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
               <i className="fa-solid fa-download"></i>
@@ -33,7 +33,7 @@ const Content = () => {
           </div>
         </div>
 
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
             <i className="fa-solid fa-bars-progress"></i>
@@ -48,7 +48,7 @@ const Content = () => {
       </div>
       {/* row */}
       <div className="row">
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
             <i className="fa-brands fa-bootstrap"></i>
@@ -61,7 +61,7 @@ const Content = () => {
           </div>
         </div>
 
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
             <i className="fa-solid fa-code"></i>
@@ -74,7 +74,7 @@ const Content = () => {
           </div>
         </div>
 
-        <div className="col-3">
+        <div className="col-xxl-3 col-lg-6">
           <div className="items row">
             <div className="icons p-3">
             <i className="fa-regular fa-circle-check"></i>
